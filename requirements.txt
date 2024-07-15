@@ -1,8 +1,7 @@
-pandas_ta
 pandas
-yfinance
-mplfinance
-Jinja2
 streamlit
 matplotlib
 seaborn
+numpy
+pickle
+joblib
