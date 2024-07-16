@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import joblib
 import seaborn as sns
-pipreqs . --force
+
 
 
 st.title("Reliance Industries Stock Data Application")
