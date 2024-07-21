@@ -13,7 +13,7 @@ import seaborn as sns
 
 st.title("Reliance Industries Stock Data Application")
 
-data = pd.read_csv('C:\\Users\\Lenovo-PC\\Downloads\\Reliance data(1).csv')
+data = pd.read_csv('C:\\Users\\Lenovo-PC\\Downloads\\Reliance data.csv')
 
 data['Date'] = pd.to_datetime(data['Date'])  
 data.set_index('Date', inplace=True) 
