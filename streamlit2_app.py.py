@@ -12,7 +12,7 @@ import seaborn as sns
 
 
 st.title("Reliance Industries Stock Data Application")
-data = pd.read_csv('C:\Users\Lenovo-PC\Downloads\Reliance data.csv')
+data = pd.read_csv(r'C:\Users\Lenovo-PC\Downloads\Reliance data.csv')
 
 
 
